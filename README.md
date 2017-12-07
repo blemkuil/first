@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# MAGD150
+## Readme File
 
-You can use the [editor on GitHub](https://github.com/blemkuil/first/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+Enclosed in this repository are examples of code for MAGD 150 at UW-Whitewater.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Example 1
 
-### Markdown
+https://github.com/blemkuil/first/blob/gh-pages/f17magd150lab01_lemkuil.pde
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is an example that shows static composition in black and white. This includes the basic tools such as primitive shapes, backgrounds, and colors.
 
-```markdown
-Syntax highlighted code block
+## Example 2
 
-# Header 1
-## Header 2
-### Header 3
+https://github.com/blemkuil/first/blob/gh-pages/f17magd150lab02_lemkuil.zip
 
-- Bulleted
-- List
+This is an example that is all about color. Features included in this file are compositional elements, color modes, and colors.
 
-1. Numbered
-2. List
+## Example 3 
 
-**Bold** and _Italic_ and `Code` text
+https://github.com/blemkuil/first/blob/gh-pages/f17_magd150_lab03_lemkuil.zip
 
-[Link](url) and ![Image](src)
-```
+This is an example that is about math. Included in here are print lines, processing key words, and math operations.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Example 4 
 
-### Jekyll Themes
+https://github.com/blemkuil/first/blob/gh-pages/s17magd150lab04_lemkuil.zip
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/blemkuil/first/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This is an example that is all about dynamism. Features included in this example are movement, animation, keyboard based interaction, and if-else statements.
 
-### Support or Contact
+## Example 5
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://github.com/blemkuil/first/blob/gh-pages/s17magd150lab05_lemkuil.zip
+
+Example 5 is about intersections. This example includes buttons, events, and text labels.
